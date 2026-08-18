@@ -7,6 +7,9 @@
 
 ### 👨‍💻 About Me
 
+Welcome to my page! 🎉
+I'm Parveen, Infrastructure Operations Specialist from Australia 🇦🇺🦘
+
 ```yaml
 Name: Parveen
 Role: DevOps & Infrastructure Engineer

@@ -19,7 +19,7 @@ passion: Open Source | Automation | Cloud Native
 - 🔭 **Currently** — Working on Kubernetes, Containers & Cloud Native infrastructure
 - 🌱 **Learning** — Generative AI, LLMs, AI Guardrails & Governance
 - 💬 **Ask me about** — Kubernetes, Docker, Linux/Unix, VMware, Backup & Recovery
-- 📫 **Reach me** — [LinkedIn](https://www.linkedin.com/in/parveen)
+- 📫 **Reach me** — [LinkedIn](https://www.linkedin.com/in/parveen-05b1a52a)
 - ⚡ **Fun fact** — I've spent 17+ years taming Linux/Unix servers across the globe 🌏
 
 ---

@@ -152,6 +152,11 @@ Passion: Open Source | Automation | Cloud Native | Fitness | Selfcare
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![GenAI](https://img.shields.io/badge/Generative%20AI-FF6F61?style=flat-square&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLMs-FF6F61?style=flat-square&logo=huggingface&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCode](https://img.shields.io/badge/OpenCode-58A6FF?style=flat-square&logo=opencode&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-326CE5?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![AI Skills](https://img.shields.io/badge/AI%20Skills-FF6F61?style=flat-square&logo=openai&logoColor=white)
 
 </details>
 

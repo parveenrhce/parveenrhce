@@ -46,9 +46,16 @@ Passion: Open Source | Automation | Cloud Native | Fitness | Selfcare
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Containerd](https://img.shields.io/badge/Containerd-575757?style=flat-square&logo=containerd&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Kustomize](https://img.shields.io/badge/Kustomize-1B1F2A?style=flat-square&logo=kustomize&logoColor=white)
 ![Calico](https://img.shields.io/badge/Calico-8EE3EC?style=flat-square&logo=projectcalico&logoColor=black)
 ![CRI-O](https://img.shields.io/badge/CRI--O-527500?style=flat-square&logo=kubernetes&logoColor=white)
+![NGINX Gateway Fabric](https://img.shields.io/badge/NGINX%20Gateway%20Fabric-009639?style=flat-square&logo=nginx&logoColor=white)
+![Envoy](https://img.shields.io/badge/Envoy-AC6E53?style=flat-square&logo=envoyproxy&logoColor=white)
+![Gateway API](https://img.shields.io/badge/Gateway%20API-326CE5?style=flat-square&logo=googlegateway&logoColor=white)
+![Ingress](https://img.shields.io/badge/Ingress-009639?style=flat-square&logo=kubernetes&logoColor=white)
 
 </details>
 

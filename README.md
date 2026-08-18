@@ -139,6 +139,8 @@ Passion: Open Source | Automation | Cloud Native | Fitness | Selfcare
 ![SSSD](https://img.shields.io/badge/SSSD-005BA1?style=flat-square&logo=linuxfoundation&logoColor=white)
 ![CyberArk](https://img.shields.io/badge/CyberArk-1B1F2A?style=flat-square&logo=cyberark&logoColor=white)
 ![Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat-square&logo=vault&logoColor=white)
+![VaultWarden](https://img.shields.io/badge/VaultWarden-175DDC?style=flat-square&logo=vaultwarden&logoColor=white)
+![BitWarden](https://img.shields.io/badge/BitWarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white)
 
 </details>
 

@@ -26,18 +26,6 @@ Passion: Open Source | Automation | Cloud Native | Fitness | Selfcare
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parveenrhce&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parveenrhce&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parveenrhce&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 <details open>
@@ -159,6 +147,18 @@ Passion: Open Source | Automation | Cloud Native | Fitness | Selfcare
 ![AI Skills](https://img.shields.io/badge/AI%20Skills-FF6F61?style=flat-square&logo=openai&logoColor=white)
 
 </details>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parveenrhce&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parveenrhce&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parveenrhce&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+</p>
 
 ---
 

@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-Welcome to my page! 🎉
+Welcome to my page! 🎉<br>
 I'm Parveen, Infrastructure Operations Specialist from Australia 🇦🇺🦘
 
 ```yaml

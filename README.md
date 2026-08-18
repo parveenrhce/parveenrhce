@@ -138,35 +138,6 @@ companies: IBM, NTT, Vanguard, Monash University, Tata, Tech Mahindra, HCL
 
 ---
 
-### 🏆 Certifications
-
-| Certification | Badge |
-|---|---|
-| 🥇 Certified Kubernetes Administrator (CKA) | `#326CE5` |
-| ☸️ Introduction to Kubernetes | `#26689A` |
-| 🤖 [Establishing AI Guardrails & Governance](https://skillsoft.digitalbadges-eu.skillsoft.com/7082ffba-b2ec-4b26-8d20-a2ded620cd9e) | `#FF6F61` |
-| 🎓 [GenAI Academy: Yellow Belt Level 1](https://nttlimited.digitalbadges-eu.skillsoft.com/ae631b11-964e-451f-adfb-9c889defef39) | `#FF6F61` |
-| ⚖️ [Ethics in the Age of Generative AI](https://www.linkedin.com/learning/certificates/cb93b914e16c82ef8320c793d7500d527800f80904e7a82c3005cbd089d6e7b5) | `#0A66C2` |
-| 💼 [Generative AI for Business Leaders](https://www.linkedin.com/learning/certificates/e22b2f7e4b04398c278cfb50a3b01040745f1997168d6d8bf908547b4e7a29fd) | `#0A66C2` |
-| 📊 LogicMonitor Certified Professional (LMCP) | `#00A3E0` |
-| 📊 [LogicMonitor Certified Associate](https://verify.skilljar.com/c/hdabepptmrg3) | `#00A3E0` |
-| 🛡️ Tanium Essentials (TANE) 7.4.5 | `#1B1F2A` |
-| 🐧 [Red Hat Certified Engineer — 110-473-634](https://rhtapps.redhat.com/verify?certId=110-473-634) | `#EE0000` |
-| ☀️ [Oracle Solaris 10 System Administrator Professional](http://tinyurl.com/Par1oracle-resultT) | `#F80000` |
-| 🪟 [Microsoft Certified System Administrator](https://mcp.microsoft.com/anonymous/transcript/validate) · *ID: 844835 / Code: Microsoftgo* | `#0078D4` |
-| 💽 EMC VNXe Storage System 3100/3150/3300 | `#F05A28` |
-
----
-
-### 🎓 Academic Qualifications
-
-| 📅 Period | 🎓 Qualification | 📌 Notes |
-|---|---|---|
-| 2010 – 2012 | B.Sc. Information Technology | AQF Level 7 — Bachelor Degree (Computing) |
-| 2005 – 2008 | Polytechnic Diploma in Computer Engineering | AQF Level 6 — Advanced Diploma |
-
----
-
 ### 🌐 Let's Connect
 
 <p align="center">

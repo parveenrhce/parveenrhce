@@ -83,7 +83,10 @@ Passion: Open Source | Automation | Cloud Native | Fitness | Selfcare
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-60785C?style=flat-square&logo=vmware&logoColor=white)
+![VMware vSphere](https://img.shields.io/badge/VMware%20vSphere-60785C?style=flat-square&logo=vmware&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Oracle VirtualBox](https://img.shields.io/badge/Oracle%20VirtualBox-F80000?style=flat-square&logo=virtualbox&logoColor=white)
+![Oracle Virtual Machine](https://img.shields.io/badge/Oracle%20Virtual%20Machine-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 </details>
 

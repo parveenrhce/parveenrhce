@@ -96,6 +96,9 @@ Passion: Open Source | Automation | Cloud Native | Fitness | Selfcare
 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Puppet](https://img.shields.io/badge/Puppet-FFAB40?style=flat-square&logo=puppet&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Crossplane](https://img.shields.io/badge/Crossplane-3F2D94?style=flat-square&logo=crossplane&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-4EAA25?style=flat-square&logo=opentofu&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -108,9 +111,12 @@ Passion: Open Source | Automation | Cloud Native | Fitness | Selfcare
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F2A93B?style=flat-square&logo=grafana&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-F20505?style=flat-square&logo=splunk&logoColor=white)
 ![LogicMonitor](https://img.shields.io/badge/LogicMonitor-00A3E0?style=flat-square&logo=logicmonitor&logoColor=white)
 ![Nagios](https://img.shields.io/badge/Nagios-000000?style=flat-square&logo=nagios&logoColor=white)
+![Headlamp](https://img.shields.io/badge/Headlamp-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Node--exporter](https://img.shields.io/badge/Node--exporter-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
 </details>
 

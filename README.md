@@ -9,19 +9,18 @@
 
 ```yaml
 name: Parveen
-role: Senior IT Infrastructure Engineer
+role: DevOps & Infrastructure Engineer
 experience: 17+ years
 focus: Kubernetes | DevOps | GenAI | LLMs
 location: Australia
-current_role: Linux Engineer @ NTT Australia
-companies: IBM, NTT, Vanguard, Monash University, Tata, Tech Mahindra, HCL
+passion: Open Source | Automation | Cloud Native
 ```
 
-- 🔭 **Currently** — Linux Engineer @ NTT Australia Pty Ltd
+- 🔭 **Currently** — Working on Kubernetes, Containers & Cloud Native infrastructure
 - 🌱 **Learning** — Generative AI, LLMs, AI Guardrails & Governance
 - 💬 **Ask me about** — Kubernetes, Docker, Linux/Unix, VMware, Backup & Recovery
 - 📫 **Reach me** — [LinkedIn](https://www.linkedin.com/in/parveen)
-- ⚡ **Fun fact** — Managed 10,000+ Linux/Unix servers in a 24x7 mission-critical environment
+- ⚡ **Fun fact** — I've spent 17+ years taming Linux/Unix servers across the globe 🌏
 
 ---
 

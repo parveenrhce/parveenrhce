@@ -15,7 +15,6 @@ Name: Parveen
 Role: DevOps & Infrastructure Engineer
 Experience: 17+ years
 Focus: Kubernetes | DevOps | GenAI | LLMs
-Location: Australia
 Passion: Open Source | Automation | Cloud Native | Fitness | Selfcare
 ```
 

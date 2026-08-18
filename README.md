@@ -8,12 +8,12 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Parveen
-role: DevOps & Infrastructure Engineer
-experience: 17+ years
-focus: Kubernetes | DevOps | GenAI | LLMs
-location: Australia
-passion: Open Source | Automation | Cloud Native
+Name: Parveen
+Role: DevOps & Infrastructure Engineer
+Experience: 17+ years
+Focus: Kubernetes | DevOps | GenAI | LLMs
+Location: Australia
+Passion: Open Source | Automation | Cloud Native | Fitness | Selfcare
 ```
 
 - 🔭 **Currently** — Working on Kubernetes, Containers & Cloud Native infrastructure
